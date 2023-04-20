@@ -19,7 +19,7 @@ This dataset is from my capstone project:
 
 ![originaldataset](./pictures/originaldataset.PNG)
 
-There were quite a few null values in the dataset and considered the columns in which they were located, I decided to fill them in with zeros to represent the fact that there wasn't any data available:
+There were quite a few null values in the dataset and after considering the columns in which they were located, I decided to fill them in with zeros to represent the fact that there wasn't any data available:
 
 ![ISNA](./pictures/ISNA3.PNG)
 
